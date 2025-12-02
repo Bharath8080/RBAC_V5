@@ -268,7 +268,7 @@ def chat_with_jarvis(user, query):
         Question: {question}
         Professional Answer:"""
         
-        model = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.3)
+        model = ChatGoogleGenerativeAI(model="gemini-2.0-flash-lite", temperature=0.2)
         prompt_template = ChatPromptTemplate.from_template(template)
         chain = (
             {
@@ -667,4 +667,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
