@@ -1,7 +1,5 @@
 # 🧠 AGENTO: Enterprise AI Knowledge Assistant
 
-![Agento Banner](public/main.gif)
-
 **Agento** is a production-ready, enterprise-grade AI assistant designed to streamline internal knowledge management. Built with **Streamlit** and powered by **Google Gemini**, it allows companies to ingest PDF documents, index them using **Qdrant**, and interact with their knowledge base via text or voice.
 
 ---
@@ -121,3 +119,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 **Built with ❤️ by the Agento Team**
+
