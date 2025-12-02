@@ -1,0 +1,16 @@
+streamlit
+pymongo
+python-dotenv
+bcrypt
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+qdrant-client
+langchain-qdrant
+PyPDF2
+SpeechRecognition
+gTTS
+sqlite-database
+mutagen
